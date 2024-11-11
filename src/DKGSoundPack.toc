@@ -1,0 +1,8 @@
+## Interface: 110005 
+## Title: DKG Extra Sounds
+## Author: Drumstepp 
+## Version: 1.0
+## OptionalDeps: LibSharedMedia-3.0
+
+Libs/libs.xml
+main.lua
