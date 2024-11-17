@@ -1,5 +1,4 @@
 package-as: DKGSoundPack
-move-folders: src: DKGSoundPack
 
 ignore:
   - README.md
